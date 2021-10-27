@@ -80,3 +80,7 @@ def predict_note_file():
 
 if __name__=='__main__':
     app.run()
+    
+   
+
+# /apidocs to see the web page after host address
